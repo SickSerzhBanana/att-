@@ -1,0 +1,94 @@
+08.12.2021 00:16:31.622 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 00:18:20.624 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 00:19:05.725 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 00:19:49.000 [main] INFO   ru.vsu.ConsoleGame - Loading the game
+08.12.2021 00:21:16.972 [main] INFO   ru.vsu.ConsoleGame - Player won
+08.12.2021 00:21:30.867 [main] INFO   ru.vsu.ConsoleGame - Loading the game
+08.12.2021 00:21:58.942 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 00:23:56.732 [main] INFO   ru.vsu.ConsoleGame - Loading the game
+08.12.2021 00:24:01.108 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 00:30:37.770 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 00:37:08.608 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 00:41:46.982 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 00:42:23.242 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 00:42:48.905 [main] INFO   ru.vsu.ConsoleGame - Bot step: player beats cards
+08.12.2021 00:43:37.562 [main] INFO   ru.vsu.ConsoleGame - Loading the game
+08.12.2021 00:44:47.698 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 00:44:58.638 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 00:45:03.663 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 00:45:28.674 [main] INFO   ru.vsu.ConsoleGame - Bot step: player beats cards
+08.12.2021 00:45:36.691 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 00:46:04.052 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 00:46:28.795 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 00:46:38.317 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 00:46:53.098 [main] INFO   ru.vsu.ConsoleGame - Bot step: player beats cards
+08.12.2021 00:48:30.319 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 00:48:53.955 [main] INFO   ru.vsu.ConsoleGame - Bot step: player beats cards
+08.12.2021 00:49:05.219 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 00:49:43.881 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 00:50:02.114 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 00:50:17.666 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 00:51:30.528 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 00:51:30.528 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 00:51:56.150 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 00:52:31.472 [main] INFO   ru.vsu.ConsoleGame - Loading the game
+08.12.2021 01:18:42.054 [main] INFO   ru.vsu.ConsoleGame - Playing demo version
+08.12.2021 01:23:46.695 [main] INFO   ru.vsu.ConsoleGame - Playing demo version
+08.12.2021 02:35:45.858 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 02:36:05.675 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:36:11.271 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:36:17.544 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:36:18.911 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:36:46.980 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 02:37:02.077 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:37:03.010 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:37:08.123 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:39:41.377 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 02:39:55.889 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 02:40:09.764 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:40:11.966 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:41:47.894 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 02:42:13.346 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:44:05.391 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 02:44:16.274 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:45:23.047 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 02:45:30.146 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:45:36.565 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:45:40.661 [main] INFO   ru.vsu.ConsoleGame - Bot step: player transfer cards
+08.12.2021 02:48:27.374 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 02:48:34.748 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:48:36.004 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:48:53.827 [main] INFO   ru.vsu.ConsoleGame - Bot step: player transfer cards
+08.12.2021 02:53:16.467 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 02:53:30.054 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:53:35.106 [main] INFO   ru.vsu.ConsoleGame - Bot step: player transfer cards
+08.12.2021 02:53:52.946 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:54:08.140 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:54:11.964 [main] INFO   ru.vsu.ConsoleGame - Bot step: player transfer cards
+08.12.2021 02:54:35.669 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:54:38.861 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:54:41.375 [main] INFO   ru.vsu.ConsoleGame - Bot step: player transfer cards
+08.12.2021 02:54:53.945 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:55:12.259 [main] INFO   ru.vsu.ConsoleGame - Bot step: player transfer cards
+08.12.2021 02:55:51.024 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:56:11.372 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 02:56:17.595 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:56:26.232 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 02:56:34.311 [main] INFO   ru.vsu.ConsoleGame - Bot step: player transfer cards
+08.12.2021 02:56:58.597 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 02:57:04.413 [main] INFO   ru.vsu.ConsoleGame - Bot step: player transfer cards
+08.12.2021 02:57:41.693 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 03:50:59.971 [main] INFO   ru.vsu.ConsoleGame - Loading the game
+08.12.2021 03:51:14.980 [main] INFO   ru.vsu.ConsoleGame - Player step: bot takes cards
+08.12.2021 03:53:12.351 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 03:53:20.263 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 03:54:43.358 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 03:54:55.369 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 03:54:59.644 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 03:56:53.165 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 03:57:45.623 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 10:07:29.363 [main] INFO   ru.vsu.ConsoleGame - The game was started
+08.12.2021 10:08:05.855 [main] INFO   ru.vsu.ConsoleGame - Player step: bot beats cards
+08.12.2021 10:08:17.864 [main] INFO   ru.vsu.ConsoleGame - Bot step: player takes cards
+08.12.2021 10:09:42.124 [main] INFO   ru.vsu.ConsoleGame - Loading the game
+08.12.2021 10:10:26.770 [main] INFO   ru.vsu.ConsoleGame - Playing demo version
